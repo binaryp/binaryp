@@ -1,11 +1,16 @@
-# 个人主页
+# 作者账号信息展示
 
-欢迎来到我的GitHub主页！这里展示了我的一些基本信息和成就。
+## 仓库信息统计
 
-## 📊 统计信息
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BinaryFool-Hub&theme=github&show_icons=true&locale=cn&count_private=true&include_all_commits=true&hide=prs,issues)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BinaryFool-Hub&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=github)
+## 置顶仓库
 
-![github_stats](https://github-readme-stats.vercel.app/api?username=BinaryFool-Hub&show_icons=true&theme=graywhite)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinaryFool-Hub&repo=Python-Learning-Notes)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinaryFool-Hub&repo=Database-Learning-Notes)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BinaryFool-Hub&repo=Java-Learning-Notes)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binaryp)](https://github.com/anuraghazra/github-readme-stats)
+## 热门语言
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryFool-Hub)
+
