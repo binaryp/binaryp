@@ -2,7 +2,7 @@
 
 ## 仓库信息统计
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BinaryFool-Hub&theme=github&show_icons=true&locale=cn&count_private=true&include_all_commits=true&hide=prs,issues)
+<img src="https://github-readme-stats.vercel.app/api?username=BinaryFool-Hub&theme=github&show_icons=true&locale=cn&count_private=true&include_all_commits=true&hide=prs,issues" alt="" />
 
 ## 置顶仓库
 
