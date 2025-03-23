@@ -5,5 +5,6 @@
 ## 📊 统计信息
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BinaryFool-Hub&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=github)
+https://github-readme-stats.vercel.app/api?username=BinaryFool-Hub&show_icons=true&theme=graywhite
 
 
