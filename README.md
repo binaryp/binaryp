@@ -9,3 +9,4 @@
 </div>
 <img width="80%"  src="https://github-readme-activity-graph.vercel.app/graph?username=BinaryFool-Hub&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph">
 <img width="80%"  src="https://github-readme-activity-graph.vercel.app/graph?username=binaryfool-hub&theme=github">
+<img width="80%"  src="https://github-readme-activity-graph.vercel.app/graph?username=binaryfool-hub&theme=github-light">
